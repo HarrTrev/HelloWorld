@@ -120,3 +120,4 @@ elif answer == "move i need to see my masterpiece":
     tina.goto(random.randint(-200, 200), random.randint(-200, 200))
 else:
     print("idk lol")
+
